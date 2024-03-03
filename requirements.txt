@@ -1,0 +1,6 @@
+lyzr
+llmsherpa
+streamlit
+streamlit_extras
+pdfminer
+openai
